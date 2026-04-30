@@ -9,3 +9,5 @@ int main()
     cout<<sizeof(long long)<<"byte(s)"<<endl;
     return 0;
 }
+
+//without byte the code is still right.
